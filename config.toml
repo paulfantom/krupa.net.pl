@@ -1,0 +1,33 @@
+baseURL = "http://krupa.net.pl"
+languageCode = "en-us"
+title = "Landing Page"
+theme = "slate"
+
+[ params ]
+BackgroundImages = [
+  "background.jpg"
+]
+BackgroundStyle = "#4e4d4b;"
+OpenLinksInNewWindow = true
+Favicon = "favicon.png"
+
+# list of nav tags
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "email"
+tag = "mail"
+icon = "envelope"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "news"
+tag = "news"
+icon = "info"

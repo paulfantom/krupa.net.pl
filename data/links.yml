@@ -1,0 +1,44 @@
+---
+tiles:
+  - name: "cloud"
+    url: "https://cloud.krupa.net.pl"
+    img: "logos/nextcloud.svg"
+    bg_color: '#ffffff'
+    txt_color: '#ffb900'
+    tags: ["favorite"]
+  - name: "gmail"
+    url: "https://gmail.com"
+    img: "logos/gmail.png"
+    tags: ["favorite", "mail"]
+  - name: "e-mail"
+    url: "https://mail.zoho.com/biz/customlogin?rd=krupa.net.pl"
+    img: "logos/zoho.png"
+    tags: ["favorite", "mail"]
+  - name: "e-learning"
+    url: "https://moodle.naskarpie.edu.pl"
+    img: "logos/moodle.svg"
+    tags: ["favorite"]
+  - name: "RSS"
+    url: "https://cloud.krupa.net.pl/index.php/apps/news/"
+    img: "logos/rss.svg"
+    tags: ["favorite", "news"]
+  - name: "google"
+    url: "https://google.com"
+    img: "logos/google.svg"
+    tags: ["favorite", "search"]
+  - name: "youtube"
+    url: "https://youtube.com"
+    img: "logos/youtube.svg"
+    tags: ["favorite", "search"]
+  - name: "pawel blog"
+    url: "https://pawel.krupa.net.pl"
+    img: "logos/ethernet.svg"
+    tags: ["favorite", "blog", "news"]
+  - name: "allegro"
+    url: "https://allegro.pl"
+    img: "logos/allegro.png"
+    tags: ["shopping"]
+#  - name: "status page"
+#    url: "https://status.krupa.net.pl"
+#    img: "logos/status.svg"
+#    tags: ["tools"]
