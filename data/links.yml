@@ -38,7 +38,7 @@ tiles:
     url: "https://allegro.pl"
     img: "logos/allegro.png"
     tags: ["shopping"]
-#  - name: "status page"
-#    url: "https://status.krupa.net.pl"
-#    img: "logos/status.svg"
-#    tags: ["tools"]
+  - name: "status page"
+    url: "https://uptime.statuscake.com/?TestID=5vcBRSDfkC"
+    img: "logos/status.svg"
+    tags: ["tools"]
