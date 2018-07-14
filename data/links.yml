@@ -11,7 +11,7 @@ tiles:
     img: "logos/gmail.png"
     tags: ["favorite", "mail"]
   - name: "e-mail"
-    url: "https://mail.krupa.net.pl"
+    url: "https://mail.google.com/a/krupa.net.pl"
     img: "logos/zoho.png"
     tags: ["favorite", "mail"]
   - name: "e-learning"
