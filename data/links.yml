@@ -4,55 +4,68 @@ tiles:
     url: "https://cloud.krupa.net.pl"
     img: "logos/nextcloud.svg"
     bg_color: '#191414'
-    tags: ["favorite"]
+    tags: ["favorite", "productivity", "tools"]
+
   - name: "e-mail"
     url: "https://mail.google.com/a/krupa.net.pl"
     img: "logos/gmail.png"
-    tags: ["favorite", "mail"]
+    tags: ["favorite", "productivity"]
+
   - name: "calendar"
     url: "https://calendar.google.com/a/krupa.net.pl"
-    img: "calendar.png"
-    tags: ["favorite", "tools"]
+    img: "logos/calendar.png"
+    tags: ["favorite", "productivity"]
+
   - name: "passwords"
     url: "https://lastpass.com/?ac=1&lpnorefresh=1"
-    img: "lastpass.png"
-    tags: ["favorite", "tools"]
+    img: "logos/lastpass.png"
+    tags: ["favorite", "productivity", "tools"]
+
   - name: "e-learning"
     url: "https://moodle.naskarpie.edu.pl"
     img: "logos/moodle.svg"
     tags: ["favorite"]
+
   - name: "RSS"
     url: "https://cloud.krupa.net.pl/index.php/apps/news/"
     img: "logos/rss.svg"
     tags: ["favorite", "news"]
+
   - name: "google"
     url: "https://google.com"
     img: "logos/google.svg"
-    tags: ["favorite", "search"]
+    tags: ["favorite", "productivity", "search"]
+
   - name: "pawel blog"
     url: "https://pawel.krupa.net.pl"
     img: "logos/ethernet.svg"
     tags: ["favorite", "blog", "news"]
+
   - name: "allegro"
     url: "https://allegro.pl"
     img: "logos/allegro.png"
     tags: ["shopping"]
+
   - name: "wikipedia"
     url: "https://wikipedia.org"
     img: "logos/wikipedia.svg"
+
   - name: "status page"
     url: "https://uptime.statuscake.com/?TestID=5vcBRSDfkC"
     img: "logos/status.svg"
     tags: ["tools"]
+
   - name: "youtube"
     url: "https://youtube.com"
     img: "logos/youtube.svg"
     tags: ["favorite", "multimedia"]
+
   - name: "spotify"
     url: "https://web.spotify.com"
     img: "logos/spotify.svg"
     bg_color: "#191414"
     tags: ["multimedia"]
+
   - name: "netflix"
     url: "https://netflix.com"
     img: "logos/netflix.svg"
