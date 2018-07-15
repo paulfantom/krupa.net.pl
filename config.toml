@@ -30,4 +30,4 @@ icon = "info"
 [[ params.nav ]]
 name = "multimedia"
 tag = "multimedia"
-icon = "video-camera"
+icon = "headphones"

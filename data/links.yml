@@ -26,15 +26,15 @@ tiles:
     img: "logos/moodle.svg"
     tags: ["favorite"]
 
-  - name: "RSS"
-    url: "https://cloud.krupa.net.pl/index.php/apps/news/"
-    img: "logos/rss.svg"
-    tags: ["favorite", "news"]
-
   - name: "google"
     url: "https://google.com"
     img: "logos/google.svg"
     tags: ["favorite", "productivity", "search"]
+
+  - name: "RSS"
+    url: "https://cloud.krupa.net.pl/index.php/apps/news/"
+    img: "logos/rss.svg"
+    tags: ["favorite", "news"]
 
   - name: "pawel blog"
     url: "https://pawel.krupa.net.pl"
@@ -49,11 +49,6 @@ tiles:
   - name: "wikipedia"
     url: "https://wikipedia.org"
     img: "logos/wikipedia.svg"
-
-  - name: "status page"
-    url: "https://uptime.statuscake.com/?TestID=5vcBRSDfkC"
-    img: "logos/status.svg"
-    tags: ["tools"]
 
   - name: "youtube"
     url: "https://youtube.com"
@@ -71,3 +66,14 @@ tiles:
     img: "logos/netflix.svg"
     bg_color: "#191414"
     tags: ["multimedia"]
+
+  - name: "plex"
+    url: "https://app.plex.tv"
+    img: "logos/plex.svg"
+    bg_color: "#191414"
+    tags: ["multimedia"]
+
+  - name: "status page"
+    url: "https://uptime.statuscake.com/?TestID=5vcBRSDfkC"
+    img: "logos/status.svg"
+    tags: ["tools"]
