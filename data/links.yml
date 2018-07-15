@@ -20,7 +20,7 @@ tiles:
     tags: ["favorite", "tools"]
   - name: "passwords"
     url: "https://lastpass.com/?ac=1&lpnorefresh=1"
-    img: "https://attractionstrategist.com/wp-content/uploads/2017/11/recommended-lastpass.png"
+    img: "https://lastpass.com/media/pressroom/LastPass-Logo-Color.png"
     tags: ["favorite", "tools"]
   - name: "e-learning"
     url: "https://moodle.naskarpie.edu.pl"
