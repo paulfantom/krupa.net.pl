@@ -14,7 +14,7 @@ tiles:
   - name: "calendar"
     url: "https://calendar.google.com/a/krupa.net.pl"
     img: "logos/calendar.png"
-    tags: ["favorite", "productivity"]
+    tags: ["productivity"]
 
   - name: "passwords"
     url: "https://lastpass.com/?ac=1&lpnorefresh=1"
@@ -29,7 +29,7 @@ tiles:
   - name: "google"
     url: "https://google.com"
     img: "logos/google.svg"
-    tags: ["favorite", "productivity", "search"]
+    tags: ["productivity", "search"]
 
   - name: "RSS"
     url: "https://cloud.krupa.net.pl/index.php/apps/news/"
@@ -53,7 +53,7 @@ tiles:
   - name: "youtube"
     url: "https://youtube.com"
     img: "logos/youtube.svg"
-    tags: ["favorite", "multimedia"]
+    tags: ["multimedia"]
 
   - name: "spotify"
     url: "https://web.spotify.com"
