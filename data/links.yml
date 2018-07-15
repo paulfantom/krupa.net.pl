@@ -14,7 +14,7 @@ tiles:
     url: "https://mail.google.com/a/krupa.net.pl"
     img: "logos/zoho.png"
     tags: ["favorite", "mail"]
-  - name: "calendar
+  - name: "calendar"
     url: "https://calendar.com/a/krupa.net.pl"
     img: "https://assets.ifttt.com/images/channels/1396293310/icons/on_color_large.png"
     tags: ["favorite", "tools"]
