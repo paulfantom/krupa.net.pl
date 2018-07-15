@@ -3,8 +3,7 @@ tiles:
   - name: "cloud"
     url: "https://cloud.krupa.net.pl"
     img: "logos/nextcloud.svg"
-    bg_color: '#666666'
-    txt_color: '#ffb900'
+    bg_color: '#191414'
     tags: ["favorite"]
   - name: "e-mail"
     url: "https://mail.google.com/a/krupa.net.pl"
@@ -12,11 +11,11 @@ tiles:
     tags: ["favorite", "mail"]
   - name: "calendar"
     url: "https://calendar.google.com/a/krupa.net.pl"
-    img: "https://assets.ifttt.com/images/channels/1396293310/icons/on_color_large.png"
+    img: "calendar.png"
     tags: ["favorite", "tools"]
   - name: "passwords"
     url: "https://lastpass.com/?ac=1&lpnorefresh=1"
-    img: "https://lastpass.com/media/pressroom/LastPass-Logo-Color.png"
+    img: "lastpass.png"
     tags: ["favorite", "tools"]
   - name: "e-learning"
     url: "https://moodle.naskarpie.edu.pl"
@@ -30,10 +29,6 @@ tiles:
     url: "https://google.com"
     img: "logos/google.svg"
     tags: ["favorite", "search"]
-  - name: "youtube"
-    url: "https://youtube.com"
-    img: "logos/youtube.svg"
-    tags: ["favorite", "search"]
   - name: "pawel blog"
     url: "https://pawel.krupa.net.pl"
     img: "logos/ethernet.svg"
@@ -42,7 +37,24 @@ tiles:
     url: "https://allegro.pl"
     img: "logos/allegro.png"
     tags: ["shopping"]
+  - name: "wikipedia"
+    url: "https://wikipedia.org"
+    img: "logos/wikipedia.svg"
   - name: "status page"
     url: "https://uptime.statuscake.com/?TestID=5vcBRSDfkC"
     img: "logos/status.svg"
     tags: ["tools"]
+  - name: "youtube"
+    url: "https://youtube.com"
+    img: "logos/youtube.svg"
+    tags: ["favorite", "multimedia"]
+  - name: "spotify"
+    url: "https://web.spotify.com"
+    img: "logos/spotify.svg"
+    bg_color: "#191414"
+    tags: ["multimedia"]
+  - name: "netflix"
+    url: "https://netflix.com"
+    img: "logos/netflix.svg"
+    bg_color: "#191414"
+    tags: ["multimedia"]

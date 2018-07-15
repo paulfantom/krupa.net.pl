@@ -31,3 +31,8 @@ icon = "search"
 name = "news"
 tag = "news"
 icon = "info"
+
+[[ params.nav ]]
+name = "multimedia"
+tag = "multimedia"
+icon = "video-camera"
