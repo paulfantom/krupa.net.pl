@@ -6,13 +6,9 @@ tiles:
     bg_color: '#ffffff'
     txt_color: '#ffb900'
     tags: ["favorite"]
-  - name: "gmail"
-    url: "https://gmail.com"
-    img: "logos/gmail.png"
-    tags: ["favorite", "mail"]
   - name: "e-mail"
     url: "https://mail.google.com/a/krupa.net.pl"
-    img: "logos/zoho.png"
+    img: "logos/gmail.png"
     tags: ["favorite", "mail"]
   - name: "calendar"
     url: "https://calendar.google.com/a/krupa.net.pl"
