@@ -14,6 +14,14 @@ tiles:
     url: "https://mail.google.com/a/krupa.net.pl"
     img: "logos/zoho.png"
     tags: ["favorite", "mail"]
+  - name: "calendar
+    url: "https://calendar.com/a/krupa.net.pl"
+    img: "https://assets.ifttt.com/images/channels/1396293310/icons/on_color_large.png"
+    tags: ["favorite", "tools"]
+  - name: "passwords"
+    url: "https://lastpass.com/?ac=1&lpnorefresh=1"
+    img: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Antu_lastpass-vault.svg"
+    tags: ["favorite", "tools"]
   - name: "e-learning"
     url: "https://moodle.naskarpie.edu.pl"
     img: "logos/moodle.svg"
