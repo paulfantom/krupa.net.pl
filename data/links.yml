@@ -3,7 +3,7 @@ tiles:
   - name: "cloud"
     url: "https://cloud.krupa.net.pl"
     img: "logos/nextcloud.svg"
-    bg_color: '#ffffff'
+    bg_color: '#666666'
     txt_color: '#ffb900'
     tags: ["favorite"]
   - name: "e-mail"
