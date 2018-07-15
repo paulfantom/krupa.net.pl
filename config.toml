@@ -18,16 +18,16 @@ tag = "favorite"
 icon = "star"
 
 [[ params.nav ]]
-name = "email"
-tag = "mail"
-icon = "envelope"
-
-[[ params.nav ]]
-name = "search"
-tag = "search"
-icon = "search"
+name = "productivity"
+tag = "productivity"
+icon = "space-shuttle"
 
 [[ params.nav ]]
 name = "news"
 tag = "news"
 icon = "info"
+
+[[ params.nav ]]
+name = "multimedia"
+tag = "multimedia"
+icon = "headphones"
