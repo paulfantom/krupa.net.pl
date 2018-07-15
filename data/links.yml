@@ -41,14 +41,15 @@ tiles:
     img: "logos/ethernet.svg"
     tags: ["favorite", "blog", "news"]
 
+  - name: "wikipedia"
+    url: "https://wikipedia.org"
+    img: "logos/wikipedia.svg"
+    tags: ["search"]
+
   - name: "allegro"
     url: "https://allegro.pl"
     img: "logos/allegro.png"
     tags: ["shopping"]
-
-  - name: "wikipedia"
-    url: "https://wikipedia.org"
-    img: "logos/wikipedia.svg"
 
   - name: "youtube"
     url: "https://youtube.com"
