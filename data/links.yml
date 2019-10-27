@@ -74,6 +74,11 @@ tiles:
     bg_color: "#191414"
     tags: ["multimedia"]
 
+  - name: "ombi"
+    url: "https://ombi.ankhmorpork.thaum.xyz"
+    img: "logos/ombi.png"
+    tags: ["multimedia"]
+
   - name: "status page"
     url: "https://uptime.statuscake.com/?TestID=5vcBRSDfkC"
     img: "logos/status.svg"
