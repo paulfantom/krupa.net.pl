@@ -1,3 +1,6 @@
 [submodule "themes/slate"]
 	path = themes/slate
 	url = https://github.com/gesquive/slate
+[submodule "themes/granite"]
+	path = themes/granite
+	url = https://github.com/Th3Whit3Wolf/granite.git

@@ -1,7 +1,7 @@
 baseURL = "http://krupa.net.pl"
 languageCode = "en-us"
 title = "Landing Page"
-theme = "slate"
+theme = "granite"
 
 [ params ]
 BackgroundImages = [
