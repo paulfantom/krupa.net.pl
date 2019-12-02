@@ -21,6 +21,12 @@ tiles:
     img: "logos/lastpass.png"
     tags: ["favorite", "productivity", "tools"]
 
+  - name: "bitwarden"
+    url: "https://vault.bitwarden.com/#/"
+    img: "logos/bitwarden-white.png"
+    bg_color: '#3c8dbc'
+    tags: ["favorite", "productivity", "tools"]
+
   - name: "e-learning"
     url: "https://moodle.naskarpie.edu.pl"
     img: "logos/moodle.svg"
