@@ -57,6 +57,11 @@ tiles:
     img: "logos/allegro.png"
     tags: ["shopping"]
 
+  - name: "amazon"
+    url: "https://amazon.de"
+    img: "logos/amazon.svg"
+    tags: ["shopping"]
+
   - name: "youtube"
     url: "https://youtube.com"
     img: "logos/youtube.svg"
