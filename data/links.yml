@@ -90,7 +90,13 @@ tiles:
     img: "logos/ombi.png"
     tags: ["multimedia"]
 
-  - name: "status page"
-    url: "https://uptime.statuscake.com/?TestID=5vcBRSDfkC"
-    img: "logos/status.svg"
+  - name: "dashboards"
+    url: "https://grafana.ankhmorpork.thaum.xyz"
+    img: "logos/grafana.png"
+    bg_color: "#191414"
+    tags: ["tools"]
+
+  - name: "prometheus"
+    url: "https://prometheus.ankhmorpork.thaum.xyz"
+    img: "logos/prometheus.svg"
     tags: ["tools"]

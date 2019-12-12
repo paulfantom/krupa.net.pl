@@ -31,3 +31,8 @@ icon = "info"
 name = "multimedia"
 tag = "multimedia"
 icon = "headphones"
+
+[[ params.nav ]]
+name = "tools"
+tag = "tools"
+icon = "wrench"
