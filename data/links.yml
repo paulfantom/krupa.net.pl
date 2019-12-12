@@ -16,16 +16,21 @@ tiles:
     img: "logos/calendar.png"
     tags: ["productivity"]
 
-  - name: "passwords"
+  - name: "lastpass"
     url: "https://lastpass.com/?ac=1&lpnorefresh=1"
     img: "logos/lastpass.png"
-    tags: ["favorite", "productivity", "tools"]
+    tags: ["productivity", "tools"]
 
-  - name: "bitwarden"
+  - name: "passwords"
     url: "https://vault.bitwarden.com/#/"
     img: "logos/bitwarden-white.png"
     bg_color: '#3c8dbc'
     tags: ["favorite", "productivity", "tools"]
+
+  - name: "whatsapp"
+    url: "https://web.whatsapp.com/"
+    img: "logos/whatsapp.png"
+    tags: ["favorite", "productivity"]
 
   - name: "e-learning"
     url: "https://moodle.naskarpie.edu.pl"
@@ -41,6 +46,11 @@ tiles:
     url: "https://cloud.krupa.net.pl/index.php/apps/news/"
     img: "logos/rss.svg"
     tags: ["favorite", "news"]
+
+  - name: "konkret24"
+    url: "https://konkret24.tvn24.pl"
+    img: "logos/konkret24.png"
+    tags: ["news"]
 
   - name: "pawel blog"
     url: "https://pawel.krupa.net.pl"
@@ -61,6 +71,11 @@ tiles:
     url: "https://amazon.de"
     img: "logos/amazon.svg"
     tags: ["shopping"]
+
+  - name: "steam"
+    url: "https://steampowered.com"
+    img: "logos/steam.png"
+    tags: ["multimedia", "shopping"]
 
   - name: "youtube"
     url: "https://youtube.com"
