@@ -16,11 +16,6 @@ tiles:
     img: "logos/calendar.png"
     tags: ["productivity"]
 
-  - name: "lastpass"
-    url: "https://lastpass.com/?ac=1&lpnorefresh=1"
-    img: "logos/lastpass.png"
-    tags: ["productivity", "tools"]
-
   - name: "passwords"
     url: "https://vault.bitwarden.com/#/"
     img: "logos/bitwarden-white.png"
