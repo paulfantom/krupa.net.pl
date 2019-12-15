@@ -1,6 +1,6 @@
 ---
 tiles:
-  - name: "cloud"
+  - name: "chmurka"
     url: "https://cloud.krupa.net.pl"
     img: "logos/nextcloud.svg"
     bg_color: '#191414'
@@ -11,12 +11,12 @@ tiles:
     img: "logos/gmail.png"
     tags: ["favorite", "productivity"]
 
-  - name: "calendar"
+  - name: "kalendarz"
     url: "https://calendar.google.com/a/krupa.net.pl"
     img: "logos/calendar.png"
     tags: ["productivity"]
 
-  - name: "passwords"
+  - name: "hasła"
     url: "https://vault.bitwarden.com/#/"
     img: "logos/bitwarden-white.png"
     bg_color: '#3c8dbc'
@@ -47,10 +47,10 @@ tiles:
     img: "logos/konkret24.png"
     tags: ["news"]
 
-  - name: "pawel blog"
-    url: "https://pawel.krupa.net.pl"
-    img: "logos/ethernet.svg"
-    tags: ["favorite", "blog", "news"]
+#  - name: "blog pawła"
+#    url: "https://pawel.krupa.net.pl"
+#    img: "logos/ethernet.svg"
+#    tags: ["favorite", "blog", "news"]
 
   - name: "wikipedia"
     url: "https://wikipedia.org"
@@ -100,7 +100,7 @@ tiles:
     img: "logos/ombi.png"
     tags: ["multimedia"]
 
-  - name: "dashboards"
+  - name: "wykresy"
     url: "https://grafana.ankhmorpork.thaum.xyz"
     img: "logos/grafana.png"
     bg_color: "#191414"

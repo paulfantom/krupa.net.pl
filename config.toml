@@ -1,6 +1,7 @@
 baseURL = "http://krupa.net.pl"
-languageCode = "en-us"
-title = "Landing Page"
+DefaultContentLanguage = "pl"
+languageCode = "pl"
+title = "Portal - krupa.net.pl"
 theme = "granite"
 
 [ params ]
@@ -13,17 +14,17 @@ Favicon = "favicon.png"
 
 # list of nav tags
 [[ params.nav ]]
-name = "favorites"
+name = "ulubione"
 tag = "favorite"
 icon = "star"
 
 [[ params.nav ]]
-name = "productivity"
+name = "produktywność"
 tag = "productivity"
 icon = "space-shuttle"
 
 [[ params.nav ]]
-name = "news"
+name = "wiadomości"
 tag = "news"
 icon = "info"
 
@@ -33,6 +34,6 @@ tag = "multimedia"
 icon = "headphones"
 
 [[ params.nav ]]
-name = "tools"
+name = "narzędzia"
 tag = "tools"
 icon = "wrench"
