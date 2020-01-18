@@ -32,11 +32,6 @@ tiles:
     img: "logos/whatsapp.png"
     tags: ["favorite", "productivity"]
 
-  - name: "google"
-    url: "https://google.com"
-    img: "logos/google.svg"
-    tags: ["productivity", "search"]
-
   - name: "e-learning"
     url: "https://moodle.naskarpie.edu.pl"
     img: "logos/moodle.svg"
@@ -57,11 +52,6 @@ tiles:
 #    img: "logos/ethernet.svg"
 #    tags: ["favorite", "blog", "news"]
 
-  - name: "wikipedia"
-    url: "https://wikipedia.org"
-    img: "logos/wikipedia.svg"
-    tags: ["search"]
-
   - name: "allegro"
     url: "https://allegro.pl"
     img: "logos/allegro.png"
@@ -72,20 +62,9 @@ tiles:
     img: "logos/amazon.svg"
     tags: ["shopping"]
 
-  - name: "steam"
-    url: "https://steampowered.com"
-    img: "logos/steam.png"
-    tags: ["multimedia", "shopping"]
-
   - name: "youtube"
     url: "https://youtube.com"
     img: "logos/youtube.svg"
-    tags: ["multimedia"]
-
-  - name: "spotify"
-    url: "https://web.spotify.com"
-    img: "logos/spotify.svg"
-    bg_color: "#191414"
     tags: ["multimedia"]
 
   - name: "netflix"
