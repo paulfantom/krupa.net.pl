@@ -22,20 +22,25 @@ tiles:
     bg_color: '#3c8dbc'
     tags: ["favorite", "productivity", "tools"]
 
+  - name: "home assistant"
+    url: "https://zmc.krupa.net.pl/"
+    img: "logos/home-assistant.png"
+    tags: ["favorite", "productivity"]
+
   - name: "whatsapp"
     url: "https://web.whatsapp.com/"
     img: "logos/whatsapp.png"
     tags: ["favorite", "productivity"]
 
-  - name: "e-learning"
-    url: "https://moodle.naskarpie.edu.pl"
-    img: "logos/moodle.svg"
-    tags: ["favorite"]
-
   - name: "google"
     url: "https://google.com"
     img: "logos/google.svg"
     tags: ["productivity", "search"]
+
+  - name: "e-learning"
+    url: "https://moodle.naskarpie.edu.pl"
+    img: "logos/moodle.svg"
+    tags: ["favorite"]
 
   - name: "RSS"
     url: "https://cloud.krupa.net.pl/index.php/apps/news/"
