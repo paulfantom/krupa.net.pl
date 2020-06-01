@@ -7,12 +7,12 @@ tiles:
     tags: ["favorite", "productivity", "tools"]
 
   - name: "e-mail"
-    url: "https://mail.google.com/a/krupa.net.pl"
+    url: "https://mail.krupa.net.pl"
     img: "logos/gmail.png"
     tags: ["favorite", "productivity"]
 
   - name: "kalendarz"
-    url: "https://calendar.google.com/a/krupa.net.pl"
+    url: "https://calendar.krupa.net.pl"
     img: "logos/calendar.png"
     tags: ["productivity"]
 
