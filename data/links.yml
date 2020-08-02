@@ -7,12 +7,14 @@ tiles:
     tags: ["favorite", "productivity", "tools"]
 
   - name: "e-mail"
-    url: "https://mail.krupa.net.pl"
+    # https causes problems with redirects
+    url: "http://mail.krupa.net.pl"
     img: "logos/gmail.png"
     tags: ["favorite", "productivity"]
 
   - name: "kalendarz"
-    url: "https://calendar.krupa.net.pl"
+    # https causes problems with redirects
+    url: "http://calendar.krupa.net.pl"
     img: "logos/calendar.png"
     tags: ["productivity"]
 
