@@ -81,7 +81,7 @@ tiles:
     bg_color: "#191414"
     tags: ["multimedia"]
 
-  - name: "ombi"
+  - name: "VOD"
     url: "https://ombi.ankhmorpork.thaum.xyz"
     img: "logos/ombi.png"
     tags: ["multimedia"]
