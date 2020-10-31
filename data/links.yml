@@ -96,3 +96,8 @@ tiles:
     url: "https://prometheus.ankhmorpork.thaum.xyz"
     img: "logos/prometheus.svg"
     tags: ["tools"]
+
+  - name: "status"
+    url: "https://thaum.statuspage.io/"
+    img: "logos/checkmark.svg"
+    tags: ["tools", "favorite"]
